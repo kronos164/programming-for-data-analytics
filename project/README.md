@@ -74,8 +74,6 @@ programming-for-data-analytics/project/
    - Start the Jupyter extension and open `windspeed-and-windfarm-ireland.ipynb`.
    - Run all cells to analyze the data.
 
----
-
 ### Option 2: Using GitHub Codespaces
 
 1. Open the repository on GitHub and click **"Code" > "Codespaces" > "Create Codespace"**.
