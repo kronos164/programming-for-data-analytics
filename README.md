@@ -5,7 +5,11 @@ Repository for ATU module assessment
 
 ## Get Started
 
-!Under construction!
+The repository is divided into three main sections:
+
+1. **Assignments**: This folder contains all the assignments for the module.
+2. **MyWork**: This folder includes my drafts and practice exercises.
+3. **Project**: This folder holds the final project for the module.
 
 ## Author
 
