@@ -31,12 +31,13 @@ This project analyzes historical wind speed data across Ireland's weather statio
 
 ## Technical Requirements
 
-```python
-pandas==1.5.0
-geopandas==0.12.0
-matplotlib==3.6.0
-numpy==1.23.0
 ```
+pandas = 1.5.0
+geopandas = 0.12.0
+matplotlib = 3.6.0
+numpy = 1.23.0
+```
+
 ## Repository Structure
 
 ```
@@ -46,7 +47,7 @@ programming-for-data-analytics/project/
 ├── Images/                                 # Folder sith images used
 ├── ROI_map/                                # Folder with Ireland's geodata files
 ├── WindFarmsIreland/                       # Folder with wind farms dataframes
-├── Assingment Description.pdf              # PDF file with the assingment description
+├── Assignment Description.pdf              # PDF file with the assignment description
 ├── requirements.txt                        # Python dependencies
 ├── winds-of-ireland.ipynb                  # Jupyter notebook with the project and data analysis
 |
@@ -74,8 +75,6 @@ programming-for-data-analytics/project/
    - Open the repository folder.
    - Start the Jupyter extension and open `winds-of-ireland.ipynb`.
    - Run all cells to analyze the data.
-
----
 
 ### Option 2: Using GitHub Codespaces
 
