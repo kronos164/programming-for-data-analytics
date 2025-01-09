@@ -43,11 +43,12 @@ numpy==1.23.0
 programming-for-data-analytics/project/
 |
 ├── HistWindSpeedIreland/                   # Folder wind speed dataframes
+├── Images/                                 # Folder sith images used
 ├── ROI_map/                                # Folder with Ireland's geodata files
 ├── WindFarmsIreland/                       # Folder with wind farms dataframes
 ├── Assingment Description.pdf              # PDF file with the assingment description
 ├── requirements.txt                        # Python dependencies
-├── windspeed-and-windfarm-ireland.ipynb    # Jupyter notebook with the project and data analysis
+├── winds-of-ireland.ipynb                  # Jupyter notebook with the project and data analysis
 |
 ```
 ## Running the Project
@@ -71,7 +72,7 @@ programming-for-data-analytics/project/
 3. Open the Jupyter Notebook:
    - Launch VS Code.
    - Open the repository folder.
-   - Start the Jupyter extension and open `windspeed-and-windfarm-ireland.ipynb`.
+   - Start the Jupyter extension and open `winds-of-ireland.ipynb`.
    - Run all cells to analyze the data.
 
 ---
@@ -80,7 +81,7 @@ programming-for-data-analytics/project/
 
 1. Open the repository on GitHub and click **"Code" > "Codespaces" > "Create Codespace"**.
 2. GitHub Codespaces will automatically set up the environment.
-3. Open `windspeed-and-windfarm-ireland.ipynb` in the integrated Jupyter environment.
+3. Open `winds-of-ireland.ipynb` in the integrated Jupyter environment.
 4. Run all cells to process and analyze the weather data.
 
 ## Project Structure
